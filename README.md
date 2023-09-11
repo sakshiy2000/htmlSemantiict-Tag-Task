@@ -1,2 +1,2 @@
-# htmlSemantiict-Tag-Task!
-[Uploading screencapture-127-0-0-1-5500-semantictask-html-2023-09-11-15_59_44.png…]()
+ 
+![semanticitag](https://github.com/sakshiy2000/htmlSemantiict-Tag-Task/assets/127825022/ec57c899-e73b-4294-b751-0ad08e43dde7)
